@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlxCode
 - 👀 I’m interested in Yt and other stuff
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Python and Typescript
 - 💞️ I’m looking to collaborate on Bloxd.io
 - 📫 How to reach me, Dm me on discord, discord username:"apersonintheworld." I might not listen 2 u
 
