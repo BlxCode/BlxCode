@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BlxCode
+- 👋 Hi, I’m @BlxCode aka Blxm in other social media platforms i.e. discord, etc. BloxdMaster on YouTube.
 - 👀 I’m interested in Yt and other stuff
 - 🌱 I’m currently learning Python and Typescript
 - 💞️ I’m looking to collaborate on Bloxd.io
-- 📫 How to reach me, Dm me on discord, discord username:"apersonintheworld." I might not listen 2 u
+- 📫 Email me at bloxdmasterbloxdacc@gmail.com
 
 <!---
 BlxCode/BlxCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
