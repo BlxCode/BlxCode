@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Blxm</h1>
-<h3 align="center">A small bloxd.io youtuber, and new software dev.</h3>
+<h1 align="center">Hi 👋, I'm Blxm (BlxCode cuz some idiot got that name before me)</h1>
+<h3 align="center">idk what to put here</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blxcode&label=Profile%20views&color=0e75b6&style=flat" alt="blxcode" /> </p>
 
