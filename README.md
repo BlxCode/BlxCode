@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Blxm <p><small>(BlxCode cuz some idiot got that name before me)</small></p></h1>
-<h3 align="center">idk what to put here</h3>
+<h1 align="center">Hi 👋, I'm Blxm </h1> <small>(BlxCode cuz some idiot got that name before me)</small>
+<small align="center">idk what to put here</small>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blxcode&label=Profile%20views&color=0e75b6&style=flat" alt="blxcode" /> </p>
 
