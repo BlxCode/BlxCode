@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Blxm&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=profetional%20idiot&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=950&lines=bruh.](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22me%20is%20very%20pro%20in%20coding%20check%20out%20my%20website%20at%20http://localhost:3000%22)" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=1550&lines=bruh.](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22me%20is%20very%20pro%20in%20coding%20check%20out%20my%20website%20at%20http://localhost:3000%22)" alt="Typing introduction" />
 </p>
 
 <p align="center">
